@@ -1,4 +1,4 @@
-# Sit-On-Chairs
+# Sit-On-Chair
 
 #using technologies
 css
