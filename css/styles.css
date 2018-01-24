@@ -842,7 +842,7 @@ footer p:nth-of-type(2) span {
     color: #44b0de;
 }
 
- @media (max-width: 700px){
+ /* @media (max-width: 700px){
     .container{
         width: 50%;
         margin-left: auto;
@@ -856,4 +856,4 @@ footer p:nth-of-type(2) span {
         margin-left: auto;
         margin-right: auto;
     }
-} 
+}  */
