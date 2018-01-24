@@ -841,3 +841,19 @@ footer p:nth-of-type(2) span {
 .fa-twitter-square {
     color: #44b0de;
 }
+
+ @media (max-width: 700px){
+    .container{
+        width: 528px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 700px){
+    .container{
+        width: 1056px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+} 
